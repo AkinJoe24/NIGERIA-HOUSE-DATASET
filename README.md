@@ -16,3 +16,8 @@ This is a comprehensive analysis of housing data in Nigeria with a focus on Lago
 6.0 - Insights
 
 7.0 - Conclusion/Recommenendations
+
+## 1.0 - INTRODUCTION 
+This report provides a comprehensive analysis of the housing data in Nigeria, focusing on various parameters such as the type of houses, the number of bedrooms, parking spaces, and bathrooms. The primary aim is to highlight Lagos state as the central state for housing analysis within Nigeria.
+
+## 2.0 - DATA SOURCES 
